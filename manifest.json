@@ -2,7 +2,7 @@
   "name": "İSG Kimya Deneme Sınavı",
   "short_name": "İSG Kimya",
   "description": "İstanbul AUZOF İSG Kimya deneme sınavı uygulaması",
-  "start_url": "/isg_kimya_sinav_pwa.html",
+  "start_url": "/index.html",
   "display": "standalone",
   "background_color": "#667eea",
   "theme_color": "#667eea",
